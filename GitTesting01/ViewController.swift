@@ -13,7 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("Kyadetme deneme")
+        
+        
+        var pi = 3.14
+        print("hello")
     }
 
 
